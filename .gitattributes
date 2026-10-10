@@ -1,0 +1,2 @@
+web/public/data/*.bin filter=lfs diff=lfs merge=lfs -text
+web/public/data/*.png filter=lfs diff=lfs merge=lfs -text
